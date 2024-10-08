@@ -44,3 +44,16 @@ form input {
     padding: 10px;
     margin-top: 5px;
 }
+.bike-offer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.bike {
+    margin: 15px;
+    text-align: center;
+}
+.bike img {
+    max-width: 100%;
+    height: auto;
+}
